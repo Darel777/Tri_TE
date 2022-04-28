@@ -1,0 +1,37 @@
+# 音乐鉴赏用
+# 文件名,标题（BGM鉴赏里用）,歌词/描述文件名(不用写后缀.txt)
+BGM01,"Lazily, the sun shines.",bgm01_en
+BGM02,"The Precious Recess",bgm02_en
+BGM03,"The Amethyst Alike Eyes",bgm03_en
+BGM04,"The Orange Umbrella",bgm04_en
+BGM05,"A Fool",bgm05_en
+BGM06,"Excuse me?!",bgm06_en
+BGM07,"The Quiet Night",bgm07_en
+BGM08,"The Fragile Tenderness",bgm08_en
+BGM09,"The Promise",bgm09_en
+BGM10_Ora,"The Colour of My Heart Ver.Orange",bgm10_ora_en
+BGM10_Vio,"The Color In The Heart Ver.Violet",bgm10_vio_en
+BGM11,"Entanglement",bgm11_en
+BGM12,"Tangle",bgm12_en
+BGM13,"Desperation",bgm13_en
+BGM14,"Resolution",bgm14_en
+BGM15,"Love Confession",bgm15_en
+BGM16,"Hostility",bgm16_en
+BGM17,"Park Bathed in Sunshine",bgm17_en
+BGM18,"Settle Down",bgm18_en
+BGM20,"Longly travel",bgm20_en
+BGM21_full,"Black and white painting",bgm21_en
+BGM22,"Guilt and blame",bgm22_en
+Vocal_OP,"TriColour Heartbeat",Vocal_OP_en
+Vocal_OP_JP,"TriColour Heartbeat(Ver.JP)",Vocal_OP_JP_en
+Vocal_ED1,"TriColour World",Vocal_ED1_en
+Vocal_ED2,"TriColour World (Ver.Violet)",Vocal_ED2_en
+Vocal_ED3,"TriColour World (Ver.Orange)",Vocal_ED3_en
+Vocal_ED4,"A Dreamlike Painting",Vocal_ED4_en
+Vocal_ED5,"Love With Colour",Vocal_ED5_en
+Vocal_SYZY,"Christmas Eve Bell",Vocal_SYZY_en
+freetalk1,"Happy New Year! -Orange Side-",freetalk1_en
+freetalk2,"Buon Anno! -Violet Side-",freetalk2_en
+freetalk3,"Happy New Year! -Green Side-",freetalk3_en
+freetalk4,"Blessing SMS! -Sunny Side-",freetalk4_en
+freetalk5,"May you be prosperous! -Lucien Side-",freetalk5_en

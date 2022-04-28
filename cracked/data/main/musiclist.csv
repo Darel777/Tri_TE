@@ -1,0 +1,37 @@
+# 音乐鉴赏用
+# 文件名,标题（BGM鉴赏里用）,歌词/描述文件名(不用写后缀.txt)
+BGM01,慵懒的阳光,bgm01
+BGM02,珍贵的课间,bgm02
+BGM03,紫水晶之瞳,bgm03
+BGM04,橙色的小伞,bgm04
+BGM05,木头脑袋,bgm05
+BGM06,Excuse me?!,bgm06
+BGM07,静谧之夜,bgm07
+BGM08,脆弱的温柔,bgm08
+BGM09,约定,bgm09
+BGM10_Ora,心底的颜色_Orange,bgm10_ora
+BGM10_Vio,心底的颜色_Violet,bgm10_vio
+BGM11,纠葛,bgm11
+BGM12,乱麻,bgm12
+BGM13,绝望,bgm13
+BGM14,决心,bgm14
+BGM15,告白,bgm15
+BGM16,敌意,bgm16
+BGM17,阳光下的公园,bgm17
+BGM18,尘埃落定,bgm18
+BGM20,独行,bgm20
+BGM21_full,黑白绘卷,bgm21
+BGM22,罪与责,bgm22
+Vocal_OP,三色绘恋,Vocal_OP
+Vocal_OP_JP,三色绘恋(Ver.JP),vocal_op_jp
+Vocal_ED1,绘卷里的星球,Vocal_ED1
+Vocal_ED2,"绘卷里的星球(Ver.Violet)",Vocal_ED2
+Vocal_ED3,"绘卷里的星球(Ver.Orange)",Vocal_ED3
+Vocal_ED4,"绘梦画卷",Vocal_ED4
+Vocal_ED5,"恋染色",Vocal_ED5
+Vocal_SYZY,"圣夜钟音",Vocal_SYZY
+freetalk1,"新年快乐! -Orange Side-",freetalk1
+freetalk2,"Buon Anno! -Violet Side-",freetalk2
+freetalk3,"Happy New Year! -Green Side-",freetalk3
+freetalk4,"短信祝福! -Sunny Side-",freetalk4
+freetalk5,"恭喜发财! -Lucien Side-",freetalk5

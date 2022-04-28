@@ -1,0 +1,23 @@
+[Output]
+Executable=0
+OutputFileName=E:\SteamLibrary\steamapps\common\Tricolour Lovestory\append_mxj.xp3
+
+[Extensions]
+Compress=.ks
+Store=.jpg,.ogg,.png,.rpf
+Discard=
+
+[Options]
+DoCompressSizeLimit=1
+CompressSizeLimit=1024
+Protect=0
+OVBookShare=1
+CompressIndex=1
+UseXP3EncDLL=0
+
+[Executable]
+ChangeIcon=0
+Icon=
+Options=
+InvisibleOptions=datapath,debug,forcelog,logerror,debugwin,hkcontroller,hkeditor,hkwatch,hkconsole,hkclipenvinfo,hkabout,hkupdaterect,hkdumplayer,arcdelim,evalcontext,holdalpha,unaryaster
+

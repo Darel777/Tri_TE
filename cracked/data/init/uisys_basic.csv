@@ -1,0 +1,21 @@
+#中文说明,name,UI类型注释,由于全局 checkbox 是一种样式，所以很多不用写 normal 和 over 的图片,,,,,,,,,,,,
+#属性,,,left,top,width,height,normal,over,frame,exp,onchangefunc,position,min,max,value
+底图,sys_basic_bottom,layer,0,0,1280,720,,,system_basic_botm,,,,,,
+画面模式-窗口,sys_screen_mode_window,checkbox,493,120,,,,,,updateConfigScreenMode(false),,,,,
+画面模式-全屏,sys_screen_mode_fullscreen,checkbox,628,120,,,,,,updateConfigScreenMode(true),,,,,
+演出效果-简单,sys_effect_simple,checkbox,493,160,,,,,,updateConfigNoEffect(true),,,,,
+演出效果-标准,sys_effect_normal,checkbox,628,160,,,,,,updateConfigNoEffect(false),,,,,
+执行快速存档时是否询问-Yes,sys_q_saveload_ask_yes,checkbox,493,200,,,,,,updateConfigQSaveLoadAsk(true),,,,,
+执行快速存档时是否询问-No,sys_q_saveload_ask_no,checkbox,711,200,,,,,,updateConfigQSaveLoadAsk(false),,,,,
+快进模式-已读,sys_skip_already,checkbox,493,260,,,,,,updateConfigAllSkip(false),,,,,
+快进模式-全部,sys_skip_all,checkbox,711,260,,,,,,updateConfigAllSkip(true),,,,,
+自动模式-选项之后解除,sys_after_auto_break,checkbox,493,300,,,,,,updateAfterAuto(false),,,,,
+自动模式-选项之后不解除,sys_after_auto_continue,checkbox,711,300,,,,,,updateAfterAuto(true),,,,,
+指针隐藏等待时间-Off,sys_hide_cursor_off,checkbox,493,360,,,,,,updateConfigHideCursorInterval(0),,,,,
+指针隐藏等待时间-5秒,sys_hide_cursor_5s,checkbox,583,360,,,,,,updateConfigHideCursorInterval(5),,,,,
+指针隐藏等待时间-10秒,sys_hide_cursor_10s,checkbox,673,360,,,,,,updateConfigHideCursorInterval(10),,,,,
+指针隐藏等待时间-20秒,sys_hide_cursor_20s,checkbox,763,360,,,,,,updateConfigHideCursorInterval(20),,,,,
+主界面文本框不透明度-滑块,msg_frame_opacity_slider,slider,562,386,279,20,,,,,changeMessageLayerFrameOpacity,sf.user_frame_opacity,150,255,
+文本显示速度-滑块,text_speed_slider,slider,562,446,279,20,,,,,,,0,10,kag.textspeed
+自动模式下翻页等待时间-滑块,auto_wait_slider,slider,562,476,279,20,,,,,,,0,10,kag.autospeed
+初期化,system_btm_reset,button_with_text,564,655,,,system_btm_reset_normal,system_btm_reset_over,,initial(),,,,,

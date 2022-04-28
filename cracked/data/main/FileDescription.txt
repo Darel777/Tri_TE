@@ -1,0 +1,25 @@
+main 文件夹内的文件说明
+
+AddFont.tjs				添加字体
+
+AfterInit.tjs			在执行 first.ks 之前载入
+
+ChapterInfo.tjs			显示章节信息用
+DateInfo.tjs			显示日期信息用
+
+QuickSaveLoad.tjs		快速保存
+ExitStartSaveLoad.tjs	启动/退出时载入/保存存档
+
+NameConfig.tjs			是否使用图片来显示角色名称栏
+
+Override.tjs			覆盖系统默认一些 Class 和 function
+	MyHistoryLayer.tjs	历史记录
+	MyYesNoDialog.tjs	YES NO 对话框
+
+standmode.tjs			立绘鉴赏 功能实现
+standmode.ks			立绘鉴赏 UI
+
+videomode.ks			视频鉴赏
+
+onexit.ks				和 ExitStartSaveLoad.tjs 搭配使用
+

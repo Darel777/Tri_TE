@@ -1,0 +1,41 @@
+#属性,,,left,top,width,height,normal,over,frame,exp,onchangefunc,position,min,max,value,onchangefuncdata
+#中文说明,name,UI类型注释,由于全局 checkbox 是一种样式，所以很多不用写 normal 和 over 的图片,,,,,,,,,,,,,
+底图,sys_sound_bottom,layer,0,0,1280,720,,,system_sound_botm,,,,,,,
+全局音量开关,waveenable,checkbox,283,141,,,,,,updateConfigMuteButton('waveenable'),,,,,,
+全局音量滑条,global_volume_slider,slider,346,128,288,20,,,,,,,0,100,kag.wavevolume,
+BGM音量开关,bgmenable,checkbox,283,211,,,,,,updateConfigMuteButton('bgmenable'),,,,,,
+BGM音量滑条,bgm_slider,slider,346,198,288,20,,,,,,,0,100,kag.bgmvolume,
+SE音量开关,seenable,checkbox,283,281,,,,,,updateConfigMuteButton('seenable'),,,,,,
+SE音量滑条,se_slider,slider,346,268,288,20,,,,,,,0,100,kag.sevolume,
+SE音量预览按钮,se_preview_button,preview_button,637,280,,,,,,playRandomSE(),,,,,,
+系统音效音量开关,sysseenable,checkbox,283,351,,,,,,updateConfigMuteButton('sysseenable'),,,,,,
+系统音效音量滑条,sysse_slider,slider,346,338,288,20,,,,,,,0,100,kag.syssevolume,
+系统音效预览按钮,sysse_preview_button,preview_button,637,350,,,,,,playSysSE(),,,,,,
+全局语音开关,voiceenable,checkbox,283,421,,,,,,updateConfigMuteButton('voiceenable'),,,,,,
+全局语音滑条,global_voice_volume_slider,slider,346,408,288,20,,,,,,,0,100,kag.voicevolume,
+全局语音预览按钮,global_voice_preview_button,preview_button,637,420,,,,,,playRandomCharacterVoice('all'),,,,,,
+语音播放下 BGM 音量,bgmdown,checkbox,283,491,,,,,,updateConfigMuteButton('bgmdown'),,,,,,
+语音播放下 BGM 音量滑条,bgmdownlevel_slider,slider,346,478,288,20,,,,,,,0,100,kag.bgmdownlevel,
+语音中断模式关,voicecutpage_off,checkbox,428,531,,,,,,updateVoiceCutPage(false),,,,,,
+语音中断模式开,voicecutpage_on,checkbox,558,531,,,,,,updateVoiceCutPage(true),,,,,,
+后台播放,mute_on_deactive,switch,391,579,,,,,,muteOnDeactive(),,,,,,
+后台播放开关文字,mute_on_deactive_text,label,440,579,,,,,,,,,,,,
+文芷语音开关,voice_wenzhi,checkbox,763,108,,,,,,updateConfigMuteButton('voice_wenzhi'),,,,,,
+文芷语音滑条,wenzhi_volume_slider,slider,754,118,288,20,,,,,onCharacterVolumeSliderChange,kag.scflags.voice.voice_wenzhi/1000,0,100,,"tf.changeVolumeCharacterName=""wenzhi"""
+文芷语音预览,wenzhi_voice_preview_button,preview_button,830,107,,,,,,playRandomCharacterVoice('wenzhi'),,,,,,
+墨小菊语音开关,voice_moxiaoju,checkbox,763,203,,,,,,updateConfigMuteButton('voice_moxiaoju'),,,,,,
+墨小菊语音滑条,moxiaoju_volume_slider,slider,754,213,288,20,,,,,onCharacterVolumeSliderChange,kag.scflags.voice.voice_moxiaoju/1000,0,100,,"tf.changeVolumeCharacterName=""moxiaoju"""
+墨小菊语音预览,moxiaoju_voice_preview_button,preview_button,830,203,,,,,,playRandomCharacterVoice('moxiaoju'),,,,,,
+骆衍语音开关,voice_luoyan,checkbox,763,300,,,,,,updateConfigMuteButton('voice_luoyan'),,,,,,
+骆衍语音滑条,luoyan_volume_slider,slider,754,310,288,20,,,,,onCharacterVolumeSliderChange,kag.scflags.voice.voice_luoyan/1000,0,100,,"tf.changeVolumeCharacterName=""luoyan"""
+骆衍语音预览,luoyan_voice_preview_button,preview_button,830,299,,,,,,playRandomCharacterVoice('luoyan'),,,,,,
+迟耀语音开关,voice_chiyao,checkbox,763,395,,,,,,updateConfigMuteButton('voice_chiyao'),,,,,,
+迟耀语音滑条,chiyao_volume_slider,slider,754,405,288,20,,,,,onCharacterVolumeSliderChange,kag.scflags.voice.voice_chiyao/1000,0,100,,"tf.changeVolumeCharacterName=""chiyao"""
+迟耀语音预览,chiyao_voice_preview_button,preview_button,830,395,,,,,,playRandomCharacterVoice('chiyao'),,,,,,
+迟菓语音开关,voice_chiguo,checkbox,763,491,,,,,,updateConfigMuteButton('voice_chiguo'),,,,,,
+迟菓语音滑条,chiguo_volume_slider,slider,754,502,288,20,,,,,onCharacterVolumeSliderChange,kag.scflags.voice.voice_chiguo/1000,0,100,,"tf.changeVolumeCharacterName=""chiguo"""
+迟菓语音预览,chiguo_voice_preview_button,preview_button,830,492,,,,,,playRandomCharacterVoice('chiguo'),,,,,,
+其他/她语音开关,voice_other,checkbox,763,588,,,,,,updateConfigMuteButton('voice_other'),,,,,,
+其他/她语音滑条,others_volume_slider,slider,754,597,288,20,,,,,onCharacterVolumeSliderChange,kag.scflags.voice.voice_other/1000,0,100,,"tf.changeVolumeCharacterName=""other"""
+其他/她语音预览,others_voice_preview_button,preview_button,830,588,,,,,,playRandomCharacterVoice('other'),,,,,,
+初期化,system_btm_reset,button_with_text,564,655,,,system_btm_reset_normal,system_btm_reset_over,,initial(),,,,,,
