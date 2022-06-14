@@ -26,9 +26,9 @@ Ver 1.0.0 2022/04/29 03：23
 
 ​	全部的解包文件过大，建议在群内下载！
 
-​	**Main creator**，**product init.**  and **first instruction ver**.:herobrine1010
+​	**Main creator**，**product init.**  and **first instruction ver**.:herobrine1010,Charon2050
 
-​    **Data Collection** and **web instruction ver.**:Darel777
+​    **Data Collection** and **web instruction ver.**:Darel777,tianyijiang2028
 
 ​    **FILE SUPPORT** and **ADVICES**::dove:
 
