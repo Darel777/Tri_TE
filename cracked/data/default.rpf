@@ -1,6 +1,6 @@
 [Output]
 Executable=0
-OutputFileName=E:\SteamLibrary\steamapps\common\Tricolour Lovestory\data.xp3
+OutputFileName=D:\windows\desktop\data.xp3
 
 [Extensions]
 Compress=.asd,.ks,.tjs,.txt
@@ -20,4 +20,11 @@ ChangeIcon=0
 Icon=
 Options=
 InvisibleOptions=datapath,debug,forcelog,logerror,debugwin,hkcontroller,hkeditor,hkwatch,hkconsole,hkclipenvinfo,hkabout,hkupdaterect,hkdumplayer,arcdelim,evalcontext,holdalpha,unaryaster
+
+[Executable-exclude-options]
+ExcludeOptions=forcelog,logerror,debugwin,arcdelim,evalcontext,holdalpha,hkcontroller,hkeditor,hkwatch,hkconsole,hkclipenvinfo,hkabout,hkupdaterect,hkdumplayer,debug,movie_reg_rot,unaryaster,loadmsgmap,datapath,
+
+[Executable-security-options]
+DisableMessageMap=0
+ForceDataXP3=0
 
