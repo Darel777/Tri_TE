@@ -1,6 +1,6 @@
 
 *start
-[unlock_bookmark chapter=1 ep=4]
+
 [datecard chapter=TrueEndOrange month=2 day=18 weekday=五]
 [initscene]
 ; 第一章 第四幕
