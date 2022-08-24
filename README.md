@@ -16,7 +16,7 @@ Any development progress and instructions can be gotten from wiki.
 
 Any progress and tasks/issues can be detected from "requests" and "issues".
 
-注：请不要直接索要有关音乐、美术和文案的内容，这是组内成员在没有收益的条件下积极奉献的成果
+注：请不要直接索要有关音乐、美术和文案的内容，这是组内成员在没有收益的条件下积极奉献的成果。
 
 Tips:DO NOT ask for relative music, art or document files! 
 
@@ -32,7 +32,34 @@ Ver 1.0.0 2022/04/29 03：23
 
 ​    **FILE SUPPORT** and **ADVICES**::dove:
 
+​	**Other supporters will be shown upon confirmed by their Github accounts.**
+
 更新进度：
 
 ​	22/07/14 第一章基本完成 由于调试原因暂时只上传第五幕前的内容 分镜之类的还需优化
 
+​	22/08/24 第二章完成 添加内容包括新背景、立绘、bgm。
+
+​		bgm说明详见data/main/musiclist.csv。
+
+​		在append_mxj的每个次文件夹下都有txt说明。
+
+​		关于data文件的详细解释请见123.56.105.174。
+
+​			123.56.105.174包括：
+
+​				1.解封包教程
+
+​				2.文件夹速览
+
+​				3.开发时修改的文件
+
+​				4.部分音效bg索引
+
+​				5.使用模板创作
+
+​				6.脚本编写初教程（编写中）
+
+​		
+
+​		

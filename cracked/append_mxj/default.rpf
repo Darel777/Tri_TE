@@ -3,7 +3,7 @@ Executable=0
 OutputFileName=D:\windows\desktop\append_mxj.xp3
 
 [Extensions]
-Compress=.ks
+Compress=.ks,.txt
 Store=.jpg,.ogg,.png,.rpf
 Discard=
 

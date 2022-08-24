@@ -1,37 +1,54 @@
-# éŸ³ä¹é‰´èµç”¨
-# æ–‡ä»¶å,æ ‡é¢˜ï¼ˆBGMé‰´èµé‡Œç”¨ï¼‰,æ­Œè¯/æè¿°æ–‡ä»¶å(ä¸ç”¨å†™åç¼€.txt)
-BGM01,æ…µæ‡’çš„é˜³å…‰,bgm01
-BGM02,çè´µçš„è¯¾é—´,bgm02
-BGM03,ç´«æ°´æ™¶ä¹‹ç³,bgm03
-BGM04,æ©™è‰²çš„å°ä¼,bgm04
-BGM05,æœ¨å¤´è„‘è¢‹,bgm05
-BGM06,Excuse me?!,bgm06
-BGM07,é™è°§ä¹‹å¤œ,bgm07
-BGM08,è„†å¼±çš„æ¸©æŸ”,bgm08
-BGM09,çº¦å®š,bgm09
-BGM10_Ora,å¿ƒåº•çš„é¢œè‰²_Orange,bgm10_ora
-BGM10_Vio,å¿ƒåº•çš„é¢œè‰²_Violet,bgm10_vio
-BGM11,çº è‘›,bgm11
-BGM12,ä¹±éº»,bgm12
-BGM13,ç»æœ›,bgm13
-BGM14,å†³å¿ƒ,bgm14
-BGM15,å‘Šç™½,bgm15
-BGM16,æ•Œæ„,bgm16
-BGM17,é˜³å…‰ä¸‹çš„å…¬å›­,bgm17
-BGM18,å°˜åŸƒè½å®š,bgm18
-BGM20,ç‹¬è¡Œ,bgm20
-BGM21_full,é»‘ç™½ç»˜å·,bgm21
-BGM22,ç½ªä¸è´£,bgm22
-Vocal_OP,ä¸‰è‰²ç»˜æ‹,Vocal_OP
-Vocal_OP_JP,ä¸‰è‰²ç»˜æ‹(Ver.JP),vocal_op_jp
-Vocal_ED1,ç»˜å·é‡Œçš„æ˜Ÿçƒ,Vocal_ED1
-Vocal_ED2,"ç»˜å·é‡Œçš„æ˜Ÿçƒ(Ver.Violet)",Vocal_ED2
-Vocal_ED3,"ç»˜å·é‡Œçš„æ˜Ÿçƒ(Ver.Orange)",Vocal_ED3
-Vocal_ED4,"ç»˜æ¢¦ç”»å·",Vocal_ED4
-Vocal_ED5,"æ‹æŸ“è‰²",Vocal_ED5
-Vocal_SYZY,"åœ£å¤œé’ŸéŸ³",Vocal_SYZY
-freetalk1,"æ–°å¹´å¿«ä¹! -Orange Side-",freetalk1
-freetalk2,"Buon Anno! -Violet Side-",freetalk2
-freetalk3,"Happy New Year! -Green Side-",freetalk3
-freetalk4,"çŸ­ä¿¡ç¥ç¦! -Sunny Side-",freetalk4
-freetalk5,"æ­å–œå‘è´¢! -Lucien Side-",freetalk5
+# éŸ³ä¹é‰´èµç”?# æ–‡ä»¶å?æ ‡é¢˜ï¼ˆBGMé‰´èµé‡Œç”¨ï¼?æ­Œè¯/æè¿°æ–‡ä»¶å?ä¸ç”¨å†™åç¼€.txt),,
+BGM01,ã¼ÀÁµÄÑô¹â,bgm01
+BGM02,Õä¹óµÄ¿Î¼ä,bgm02
+BGM03,×ÏË®¾§Ö®Í«,bgm03
+BGM04,³ÈÉ«µÄĞ¡É¡,bgm04
+BGM05,Ä¾Í·ÄÔ´ü,bgm05
+BGM06,Excuse me!,bgm06
+BGM07,¾²Ú×Ö®Ò¹,bgm07
+BGM08,´àÈõµÄÎÂÈá,bgm08
+BGM09,Ô¼¶¨,bgm09
+BGM10_Ora,ĞÄµ×µÄÑÕÉ« Ver. Orange,bgm10_ora
+BGM10_Vio,ĞÄµ×µÄÑÕÉ« Ver. Violet,bgm10_vio
+BGM11,¾À¸ğ,bgm11
+BGM12,ÂÒÂé,bgm12
+BGM13,¾øÍû,bgm13
+BGM14,¾öĞÄ,bgm14
+BGM15,¸æ°×,bgm15
+BGM16,µĞÒâ,bgm16
+BGM17,Ñô¹âÏÂµÄ¹«Ô°,bgm17
+BGM18,³¾°£Âä¶¨,bgm18
+BGM19,¼ÓËÙÊÀ½ç,bgm19
+BGM20,¶ÀĞĞ,bgm20
+BGM21_full,ºÚ°×»æ¾í,bgm21_full
+BGM22,×ïÓëÔğ,bgm22
+Vocal_OP,Vocal_OP,Vocal_OP
+Vocal_OP_JP,vocal_op_jp,vocal_op_jp
+Vocal_ED1,Vocal_ED1,Vocal_ED1
+Vocal_ED2,Vocal_ED2,Vocal_ED2
+Vocal_ED3,Vocal_ED3,Vocal_ED3
+Vocal_ED4,Vocal_ED4,Vocal_ED4
+Vocal_ED5,Vocal_SYZY,Vocal_SYZY
+freetalk1,freetalk1,freetalk1
+freetalk2,freetalk2,freetalk2
+freetalk3,freetalk3,freetalk3
+freetalk4,freetalk4,freetalk4
+freetalk5,freetalk5,freetalk5
+BGM23,»æ¾íÀïµÄĞÇÇò,bgm23
+BGM24,»æÃÎ»­¾í£¨ĞÂ£©,bgm24
+BGM25,Áµ·ç»¨ ED.,bgm25
+BGM26,Áµ·ç»¨ Inst Ver.,bgm26
+BGM27,Áµ·ç»¨ Piano Ver.,bgm27
+BGM28,Áµ·ç»¨ Symphonic Ver.,bgm28
+BGM29,ÁµÈ¾É« S Piano Ver.,bgm29
+BGM30,ÁµÊ±Óê Game Size Ver.,bgm30
+BGM31,Á÷¹âÖ¯Óê Game Size Ver.,bgm31
+BGM32,Á÷¹âÖ¯Óê Symphonic Ver.,bgm32
+BGM33,Áú°ÁÌì,bgm33
+BGM34,ÈıÉ« »æÁµ,bgm34
+BGM35,ÈıÉ«»æÁµS Piano Ver.,bgm35
+BGM36,Í¨ÏòÕæÊµµÄµÀ±ê,bgm36
+BGM37,ÍòÀïÇç¿Õ,bgm37
+BGM38,ĞÄµÄÎÂ¶È,bgm38
+BGM39,ĞîÊÆ´ı·¢,bgm39
+BGM40,Ò»³É²»±äµÄ·ç,bgm40
