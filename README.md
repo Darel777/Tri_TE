@@ -20,8 +20,6 @@ Any progress and tasks/issues can be detected from "requests" and "issues".
 
 Tips:DO NOT ask for relative music, art or document files! 
 
-Ver 1.0.0 2022/04/29 03：23
-
 ​	初始化并附带了完整教学、解封包工具，正在缓慢进行脚本的编写，欢迎加入！
 
 ​	全部的解包文件过大，建议在群内下载！
@@ -36,9 +34,9 @@ Ver 1.0.0 2022/04/29 03：23
 
 更新进度：
 
-​	22/07/14 第一章基本完成 由于调试原因暂时只上传第五幕前的内容 分镜之类的还需优化
+​	22/07/14 第一章基本完成 由于调试原因暂时只上传第五幕前的内容 分镜之类的还需优化(alpha 0.10)
 
-​	22/08/24 第二章完成 添加内容包括新背景、立绘、bgm。
+​	22/08/24 第二章完成 添加内容包括新背景、立绘、bgm。(alpha 0.20)
 
 ​		bgm说明详见data/main/musiclist.csv。
 
