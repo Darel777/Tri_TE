@@ -1,0 +1,32 @@
+已完成修改 勿动
+chaptercard_chs.tjs章节卡图片配置	ok
+chaptercard_en.tjs章节卡图片配置	ok
+env_chs.tjs初始化环境	ok
+env_en.tjs初始化环境	ok
+init.tjs初始化流程	ok
+locale_chs.tjs定位用勿动	ok
+locale_en.tjs定位用勿动	ok
+menu_chs.csv菜单勿动	ok
+menu_en.csv菜单勿动	ok
+uibookmark_chs.tjs书签UI配置文件	ok
+uibookmark_en.tjs书签UI配置文件	ok
+UIConfig.tjsUI配置 下方勿动
+UIConfigSelect.tjs
+UICSVParser.tjs
+uinews_chs.tjs
+uistand_chara.csv
+uistand_chara_en.csv
+uistand_control.csv
+uistand_control_en.csv
+uistand_move.tjs
+uistand_move_en.tjs
+uisys_basic.csv
+uisys_basic_en.csv
+uisys_expansion_chs.tjs
+uisys_expansion_en.tjs
+uisys_sidestory_en.tjs
+uisys_sound.csv
+uisys_sound_en.csv
+uiyesno_chs.tjs
+uiyesno_en.tjs
+uisys_sidestory_chs.tjs

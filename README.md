@@ -1,4 +1,4 @@
-# Tri_TE mxj
+# Tri_TE mxj 介绍
 
 这里是三色绘恋用爱发电的墨小菊线DLC制作组。
 欢迎成为我们的collaborator！
@@ -16,14 +16,6 @@ Any development progress and instructions can be gotten from wiki.
 
 Any progress and tasks/issues can be detected from "requests" and "issues".
 
-注：请不要直接索要有关音乐、美术和文案的内容，这是组内成员在没有收益的条件下积极奉献的成果。
-
-Tips:DO NOT ask for relative music, art or document files! 
-
-​	初始化并附带了完整教学、解封包工具，正在缓慢进行脚本的编写，欢迎加入！
-
-​	全部的解包文件过大，建议在群内下载！
-
 ​	**Main creator**，**product init.**  and **first instruction ver**.:herobrine1010,Charon2050
 
 ​    **Data Collection** and **web instruction ver.**:Darel777,tianyijiang2028
@@ -32,11 +24,11 @@ Tips:DO NOT ask for relative music, art or document files!
 
 ​	**Other supporters will be shown upon confirmed by their Github accounts.**
 
-更新进度：
+# 更新进度
 
-​	22/07/14 第一章基本完成 由于调试原因暂时只上传第五幕前的内容 分镜之类的还需优化(alpha 0.10)
+## 	22/07/14 第一章基本完成 由于调试原因暂时只上传第五幕前的内容 分镜之类的还需优化(alpha 0.10)
 
-​	22/08/24 第二章完成 添加内容包括新背景、立绘、bgm。(alpha 0.20)
+## 	22/08/24 第二章完成 添加内容包括新背景、立绘、bgm。(alpha 0.20)
 
 ​		bgm说明详见data/main/musiclist.csv。
 
@@ -57,6 +49,64 @@ Tips:DO NOT ask for relative music, art or document files!
 ​				5.使用模板创作
 
 ​				6.脚本编写初教程（编写中）
+
+## 	22/12/02 bg cg fg 环境音效 ui 剧本 完成 bgm 脚本 AI配音制作中  
+
+# 文件目录
+
+- **append_mxj**
+  - **bg**
+    - ...
+    - list.md
+    - inst
+  - **bgm**
+    - ...
+  - **cg**
+    - ...
+    - inst
+  - **fg**
+    - ...
+    - inst
+  - **scenario**
+    - ...
+    - inst
+  - **se**
+    - ...
+    - inst
+  - **ui**
+    - ...
+    - inst
+  - **voice**
+    - ...
+    - inst
+  - default.rpf
+- **bgm**
+  - ...
+  - default.rpf
+  - inst
+- **data**
+  - **main**
+    - ...
+    - inst
+  - **system**
+    - ...
+    - inst
+  - **init**
+    - ...
+    - inst
+  - **scenario**
+    - ...
+  - **plugin_kag**
+    - ...
+    - inst
+  - **plugin_kagex**
+    - ...
+    - inst
+  - 开发时参考.jpg
+  - 修改时参考.jpg
+  - test_empty.png
+  - startup.tjs
+  - default.rpf
 
 ​		
 
