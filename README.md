@@ -18,8 +18,11 @@ Any progress and tasks/issues can be detected from "requests" and "issues".
 
 # 更新进度
 
-## 23/04/21
+## 23/08/10
 
-游戏开始进行实装测试
+游戏DEMO发布，详见[零氪工作室的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/32834111)
 
-​		
+## 23/08/10
+
+游戏PV发布，详见[三色绘恋橘色绘卷的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/3494365206940219)
+
