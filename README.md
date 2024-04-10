@@ -20,7 +20,7 @@ Any progress and tasks/issues can be detected from "requests" and "issues".
 
 ## 23/08/10
 
-游戏DEMO发布，详见[零氪工作室的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/32834111)
+游戏DEMO发布，详见[【三色绘恋】我们的同人游戏开始试玩了！](https://b23.tv/SGOwYZz)
 
 ## 23/08/10
 
