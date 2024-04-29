@@ -1,10 +1,10 @@
 [Output]
 Executable=0
-OutputFileName=C:\Users\Xiaoxu Liu\Documents\append_mxj.xp3
+OutputFileName=C:\Users\74538\Desktop\append_mxj.xp3
 
 [Extensions]
-Compress=.ks,.tjs
-Store=.jpg,.ogg,.png,.xlsx,.zip,.rpf
+Compress=.ks,.tjs,.txt
+Store=.jpg,.ogg,.png,.rpf
 Discard=
 
 [Options]

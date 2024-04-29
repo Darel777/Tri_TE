@@ -18,6 +18,10 @@ Any progress and tasks/issues can be detected from "requests" and "issues".
 
 # 更新进度
 
+## 24/04/30~24/05/03
+
+已完成，进入最后的宣发流程。
+
 ## 23/08/10
 
 游戏DEMO发布，详见[【三色绘恋】我们的同人游戏开始试玩了！](https://b23.tv/SGOwYZz)
