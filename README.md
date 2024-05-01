@@ -1,18 +1,16 @@
 # Tri_TE mxj 介绍
 
-这里是三色绘恋用爱发电的墨小菊线DLC制作组。
-欢迎成为我们的collaborator！
+这里是三色绘恋用爱发电的墨小菊线DLC（三色绘恋橘色绘卷）制作组。
 
-有关项目的开发进展和教学说明请移步wiki。
+有关项目的开发进展和教学说明请移步{B站：三色绘恋橘色绘卷{https://space.bilibili.com/3494365206940219}视频及专栏部分}。
 
-有关项目的制作进度和任务请移步“pull requests”和"issues"。
+有bug请移步“pull requests”和"issues"。
 
 This is a DLC development group of HL-game Tricolor Lovestory.
 We make this DLC for love and passion.
-
 Welcome your cooperation!
 
-Any development progress and instructions can be gotten from wiki.
+Any development progress and instructions can be gotten from bilibili.
 
 Any progress and tasks/issues can be detected from "requests" and "issues".
 
